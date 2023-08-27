@@ -17,11 +17,11 @@ global.prems = []
 // Info
 global.nomorwa = '6289518562932' //Ganti
 global.packname = '© Sticker by'
-global.author = 'Yaemiko-MD'
-global.namebot = 'Yaemiko - MD'
-global.wm = '© Yaemiko MD By VynaChan'
+global.author = 'Vanzz-MD'
+global.namebot = 'VanzzBotz - MD'
+global.wm = '© Vanzz MD'
 global.stickpack = '© Sticker by'
-global.stickauth = 'Yaemiko-MD'
+global.stickauth = 'Vanzz-MD'
 // Link Sosmed
 global.sig = 'https://instagram.com/_xwby_?igshid=ZDc4ODBmNjlmNQ=='
 global.sgh = 'https://github.com/Xyroinee'
@@ -31,8 +31,8 @@ global.psaweria = 'https://shoplinks.to/vyna-store'
 global.ptrakterr = 'https://shoplinks.to/vyna-store'
 global.povo = '0823-8992-4037'
 // Info Wait
-global.wait = '⏳ Proses...'
-global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
+global.wait = 'Tunggu bentar ya mek...'
+global.eror = 'Error njir,sorry '
 global.multiplier = 69 
 // Apikey
 global.xyro = '82LFKH7zZh'
