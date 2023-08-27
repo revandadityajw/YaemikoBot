@@ -10,7 +10,7 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6289518562932', '美Vynaa', true] //Ganti aja
+['6289518562932', 'RepanAja', true] //Ganti aja
 ]
 global.mods = []
 global.prems = []
@@ -35,7 +35,7 @@ global.wait = '⏳ Proses...'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.xyro = 'j9XFN6zChx'
+global.xyro = '82LFKH7zZh'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -48,7 +48,7 @@ global.APIs = {
 
 /*Apikey*/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "j9XFN6zChx",
+    "https://api.xyroinee.xyz": "82LFKH7zZh",
 }
 
 let file = fileURLToPath(import.meta.url)
