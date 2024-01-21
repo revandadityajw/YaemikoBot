@@ -27,7 +27,7 @@ import {
     useMultiFileAuthState,
     DisconnectReason,
     fetchLatestBaileysVersion 
-   } from '@adiwajshing/baileys'
+   } from '@whiskeysockets/baileys'
 import { Low, JSONFile } from 'lowdb'
 
 import { makeWASocket, protoType, serialize } from './lib/simple.js'
